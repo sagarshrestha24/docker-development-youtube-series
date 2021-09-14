@@ -1,0 +1,1 @@
+{"jobID":"074e9ffb-656d-004d-3590-4b9c002e3c82","spec":{"type":"policy","cause":{"Message":"","User":"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 \u003c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\u003e"},"spec":{"default:deployment/example-deploy":{"add":{"tag.example-app":"glob:3.2.*"},"remove":{}}}},"result":null}
